@@ -1,0 +1,5 @@
+# 临时测试文件，用于验证笔记本修复
+test_v3_1_structure.py
+__pycache__/
+*.pyc
+*.pyo
